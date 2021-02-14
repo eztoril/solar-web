@@ -1,11 +1,12 @@
-{application, solar-web,
+{application, solarweb,
  [{description, "An OTP application"},
   {vsn, "0.1.0"},
   {registered, []},
-  {mod, {solar-web_app, []}},
+  {mod, {solarweb_app, []}},
   {applications,
    [kernel,
-    stdlib
+    stdlib,
+    gun
    ]},
   {env,[]},
   {modules, []},

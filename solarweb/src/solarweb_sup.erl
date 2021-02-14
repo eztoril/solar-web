@@ -1,9 +1,9 @@
 %%%-------------------------------------------------------------------
-%% @doc solar-web top level supervisor.
+%% @doc solarweb top level supervisor.
 %% @end
 %%%-------------------------------------------------------------------
 
--module(solar-web_sup).
+-module(solarweb_sup).
 
 -behaviour(supervisor).
 

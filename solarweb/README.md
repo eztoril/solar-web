@@ -1,4 +1,4 @@
-solar-web
+solarweb
 =====
 
 An OTP application
